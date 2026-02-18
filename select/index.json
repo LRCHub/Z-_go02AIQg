@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "III",
+  "base_artist": "Sleep Theory",
+  "createdAt": "2026-02-18T19:21:20.223549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Alter Me III",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Alter_Me_III_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Alter Me III",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Alter_Me_III_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Altered Beast III",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Altered_Beast_III_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Altered Beast III",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Altered_Beast_III_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Prelude III - Phantoms",
+      "artist": "Rolo Tomassi",
+      "has_synced": true,
+      "path": "select/05_Prelude_III_-_Phantoms_Rolo_Tomassi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Das geschieht dir Recht III - 96 BPM",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/06_Das_geschieht_dir_Recht_III_-_96_BPM_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Das Geschieht Dir Recht Iii",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/07_Das_Geschieht_Dir_Recht_Iii_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Maniac Drug Dealer III",
+      "artist": "Lil Ugly Mane",
+      "has_synced": true,
+      "path": "select/08_Maniac_Drug_Dealer_III_Lil_Ugly_Mane.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Movement I, II, III",
+      "artist": "Lapalux",
+      "has_synced": false,
+      "path": "select/09_Movement_I,_II,_III_Lapalux.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Celestial Levels (feat. Jesse Boykins III)",
+      "artist": "Machinedrum",
+      "has_synced": true,
+      "path": "select/10_Celestial_Levels_(feat._Jesse_Boykins_III)_Machinedrum.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "III. Universe",
+      "artist": "The Microphones",
+      "has_synced": true,
+      "path": "select/11_III._Universe_The_Microphones.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Act III: The Ancient Fires of Har-Kuun",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/12_Act_III__The_Ancient_Fires_of_Har-Kuun_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Act III: The Bloody Verdict of Verden",
+      "artist": "Christopher Lee",
+      "has_synced": true,
+      "path": "select/13_Act_III__The_Bloody_Verdict_of_Verden_Christopher_Lee.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cross Talk III",
+      "artist": "Oneohtrix Point Never",
+      "has_synced": true,
+      "path": "select/14_Cross_Talk_III_Oneohtrix_Point_Never.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "III",
+      "artist": "Sleep Theory",
+      "has_synced": false,
+      "path": "select/pl_01_III_Sleep_Theory.txt"
+    }
+  ]
+}
